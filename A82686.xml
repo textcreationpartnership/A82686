@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the Lords and Commons assembled in Parliament. For the speedy putting this city into a posture of defence, and to fortifie all the passages into the same, divers rebels, traytors, and other ill-affected people, in pursuit of a wicked design to alter religion, being now marching against the Parliament for destruction of the same, and of the city of London. : Also an ordinance of both houses, declaring their resolutions of making provision for those that shall be maimed in this present war, who are in the service of the Parliament; and for the wives and children of those that shall be slaine. / Die Martis 25. Octob. 1642. Ordered by the Lords and Commons assembled in Parliament, that this declaration and ordinance be forthwith printed and published. ; J. Brown cler. Parl.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82686</idno>
+            <idno type="STC">Wing E1430A</idno>
+            <idno type="STC">ESTC R230374</idno>
+            <idno type="EEBO-CITATION">45097683</idno>
+            <idno type="OCLC">ocm 45097683</idno>
+            <idno type="VID">171281</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82686)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171281)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2570:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the Lords and Commons assembled in Parliament. For the speedy putting this city into a posture of defence, and to fortifie all the passages into the same, divers rebels, traytors, and other ill-affected people, in pursuit of a wicked design to alter religion, being now marching against the Parliament for destruction of the same, and of the city of London. : Also an ordinance of both houses, declaring their resolutions of making provision for those that shall be maimed in this present war, who are in the service of the Parliament; and for the wives and children of those that shall be slaine. / Die Martis 25. Octob. 1642. Ordered by the Lords and Commons assembled in Parliament, that this declaration and ordinance be forthwith printed and published. ; J. Brown cler. Parl.</title>
+                  <author>England and Wales. Parliament.</author>
+                  <author>Browne, John, ca. 1608-1691.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Wood.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Octob. 27. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Newes from the armie": p. [8].</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term>London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171281:1"/>
+            <p>A DECLARATION OF THE LORDS and COMMONS <hi>Aſſembled in Parliament.</hi>
+            </p>
+            <p>For the ſpeedy putting this City in<g ref="char:EOLhyphen"/>to a poſture of defence, and to fortifie all the paſſages into the ſame, Divers Rebels, Tray<g ref="char:EOLhyphen"/>tors, and other ill-affected people, in purſuit of a wicked deſign to alter Religion, being now marching againſt the Parliament for de<g ref="char:EOLhyphen"/>ſtruction of the ſame, and of the City of <hi>London.</hi>
+            </p>
+            <p>Alſo an Ordinance of both Houſes, declaring their Reſolutions of making proviſion for thoſe that ſhall be maimed in this preſent war, who are in the ſervice of the Parlia<g ref="char:EOLhyphen"/>ment; and for the wives and children of thoſe that ſhall be ſlaine.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die Martis 25. Octob. 1642.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Lords and Commons aſſembled in Parliament, that this Declaration and Ordinance be forthwith printed and publiſhed.</p>
+                        <closer>
+                           <signed>J. Brown Cler. Parl.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Robert Wood.</hi> Octob. 27. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="Parliamentary_declaration">
+            <pb facs="tcp:171281:2"/>
+            <opener>
+               <dateline>
+                  <date>Die Martis 25, Octob. 1642.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas divers Rebels, Traitors, and other ill-affected people, in purſuit of a wicked deſigne, to alter Religion, and ſubvert the Laws &amp; Liberty of the Kingdom, are marching againſt the Parliament, and for deſtru<g ref="char:EOLhyphen"/>ction of the ſame, &amp; of the City of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> having plundered, ſpoyled and de<g ref="char:EOLhyphen"/>ſtroyed divers of His Majeſties good Subjects in their paſſage, to the great ter<g ref="char:EOLhyphen"/>ror of the people, and danger of the Par<g ref="char:EOLhyphen"/>liament, City, and of the whole King<g ref="char:EOLhyphen"/>dom; for the prevention whereof, It is or<g ref="char:EOLhyphen"/>dered by the Lords and Commons in Parliament, that the Committee for the <hi>Militia</hi> of the City of <hi>London,</hi> be autho<g ref="char:EOLhyphen"/>rized &amp; required to take a ſpeedy courſe to put the City in a poſture of defence,
+<pb facs="tcp:171281:2"/> to reſiſt and oppoſe all ſuch Force, to for<g ref="char:EOLhyphen"/>tifie all the paſſages into the ſame, Sub<g ref="char:EOLhyphen"/>urbs and places adjoyning whether the ſame be within or without the ſaid City, and Liberty; likewiſe all the ſtreets of the ſame, and that they have power, and be authorized to leavy the Trained<g ref="char:EOLhyphen"/>bands and other Forces of the City aſ<g ref="char:EOLhyphen"/>well Horſe as Foot, and to place the ſame under fit Captaines, and other Officers for defence of the Parliament, City, Sub<g ref="char:EOLhyphen"/>urbs, and other his Majeſties Subjects, And to lead and conduct the ſaid Forces as well in the places without the ſaid City, and Libertie, as within, and to give battell and fight with the ſaid Rebels and Traytors, their adherents, and all other that ſhall approach with any force to<g ref="char:EOLhyphen"/>wards or againſt the City, or raiſe any inſurrection within the ſame, and them to invade, reſiſt, repreſſe, ſubdue, purſue,
+<pb facs="tcp:171281:3"/> kill and ſlay, and put to execution of death, and by all means to deſtroy as e<g ref="char:EOLhyphen"/>nemies of the Kingdom; And to per<g ref="char:EOLhyphen"/>form all things elſe needfull for the pre<g ref="char:EOLhyphen"/>ſervation of the Parl. and City, either by water or Land, obſerving from time to time ſuch other directions or commands as they ſhall receive from both Houſes of Parl. the Committee for the ſafety of the Kingdom, or the E. of <hi>Warwick</hi> Lo: General; And for their ſo doing this ſhal ſhal be a ſufficient warrant.</p>
+            <p>The ſaid Lords and Com. do further ordam and declare, That the ſaid Com<g ref="char:EOLhyphen"/>mittee for the <hi>Militta,</hi> &amp; every of them, &amp; all the Commanders and Officers im<g ref="char:EOLhyphen"/>ployed in this ſervice, And all other his Majeſties officers &amp; Subjects whatſoever in the execution of the premiſes ſhall be ſaved harmleſs, &amp; defended by the pow<g ref="char:EOLhyphen"/>er &amp; authority of both Houſes of Parl.</p>
+         </div>
+         <div type="Parliamentary_ordinance">
+            <pb facs="tcp:171281:3"/>
+            <head>
+               <hi>AN ORDINANCE</hi> OF <hi>The LORDS and COMMONS</hi> Aſſembled in <hi>PARLIAMENT.</hi>
+            </head>
+            <p>WHereas divers perſons now are or hereafter may be in the ſer<g ref="char:EOLhyphen"/>vice of the Parliament, in the preſent War undertaken for the preſervation of the Kings Majeſties Perſon, the defence of the Religion and Lawes of the Realm, and of the juſt liberties of the Subjects, who have little or nothing to maintain themſelves, their wives, and children, but by their own labours, The Lords and Commons for their
+<pb facs="tcp:171281:4"/> better encouragement in the ſervice, do or<g ref="char:EOLhyphen"/>der and declare, that they the Lords and Commons will provide competent mainte<g ref="char:EOLhyphen"/>nance and allowance for ſuch of them, as ſhall be maimed, and therehy diſabled by their labour to provide for themſelves, their wives or children, as formerly they did. And in the diſtribution of ſuch allowances and rewards they will alwayes have regard to the deſerts and ſervice of each perſon. And in caſe any ſuch perſon ſhall bee ſlaine. that they will make proviſion for the liveli<g ref="char:EOLhyphen"/>hood of their wives or children.</p>
+            <p>And in caſe any perſons of eſtate ſhall be ſlaine, or die in this ſervice, the ſaid Lords and Commons doe declare, that they will take the eſtates, wives and children of ſuch perſons into their protection; And in caſe their eſtates ſhall not at the time of the death of ſuch perſons be ſetled, they will be alwayes aſsiſtant to the friends of the party
+<pb facs="tcp:171281:4"/> deceaſed, in the ſetling &amp; diſpoſing of their eſtates in ſuch manner as may bee for the moſt advantage of their wives and children and poſterity know the reſpect they beare to the memory of thoſe who have ſpent their lives in the ſervice of the Church and Commonwealth.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="report_of_battle">
+            <pb facs="tcp:171281:5" rendition="simple:additions"/>
+            <head>
+               <hi>Newes from the Armie;</hi> As it was brought by the Lord <hi>Wharton,</hi> and Mr. <hi>Strode,</hi> to both Houſes of Parliament.</head>
+            <p>
+               <seg rend="decorInit">V</seg>Pon Wedneſday in the afternoon, <hi>October</hi> 26. 1642. the Lord <hi>Wharton</hi> accompanied with Mr. <hi>Strode,</hi> a Member of the Houſe of Com<g ref="char:EOLhyphen"/>mons, came to both Houſes of Parliament with a Meſſage from His Excellencie the Earl of <hi>Eſſex,</hi> Being a Relation of the Battel fought between His M<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>jeſties Forces and them, on Sunday the 24. of <hi>October</hi> to this eff<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct.</p>
+            <p>God hath given us the Victory, the particulars are theſe.</p>
+            <p>Lord <hi>Lindſey</hi> Generall of the Field for His Majeſtie, is hurt and taken.</p>
+            <p>Alſo Sir <hi>Thomas Lunsford,</hi> Sir <hi>Edward Stradling,</hi> and Co<g ref="char:EOLhyphen"/>lonell <hi>Vavaſor,</hi> are Priſoners now in <hi>Warwick</hi> Caſtle.</p>
+            <p>And it is ſaid that the Lord <hi>VVillough by,</hi> the Lord of <hi>Lin<g ref="char:EOLhyphen"/>ſeys</hi> Son is taken.</p>
+            <p>Our loſſe is about 300. whereof of note Sir <hi>Iames Ramſey,</hi> and Colonell <hi>Eſsex,</hi> and Captain <hi>Danes</hi> Arm is broken.</p>
+            <p>All our Noble Lords are in good health.</p>
+            <p>And more, have taken 6. Cullors, and His Majeſties Stan<g ref="char:EOLhyphen"/>dard. We have alſo taken five Waggons laden with Ammu<g ref="char:EOLhyphen"/>nition and Plate, by Captain <hi>Bridges,</hi> and a Coach and eight Peeces of Ordnance, the King and Prince being all the while at Sir <hi>Edward Copes</hi> Houſe at <hi>Harwell,</hi> and now intends to march towards <hi>Northampton</hi> with three hundred men.</p>
+            <p>The Kings loſſe three thouſand.</p>
+            <p>The reſt of His Army is routed, and the Earl of <hi>Eſsex</hi> re<g ref="char:EOLhyphen"/>mains Maſter of the Field.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
